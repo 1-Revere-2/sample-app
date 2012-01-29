@@ -12,6 +12,7 @@ group :test do
   gem 'sqlite3', '1.3.3'
   gem 'rspec-rails', '2.6.1'
   gem 'webrat', '0.7.1'
+  gem 'spork', '0.9.0rc8'
 end
 
 group :production do
